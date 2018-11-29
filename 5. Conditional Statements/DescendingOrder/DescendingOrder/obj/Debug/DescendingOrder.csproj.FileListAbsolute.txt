@@ -1,0 +1,7 @@
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\bin\Debug\DescendingOrder.exe.config
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\bin\Debug\DescendingOrder.exe
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\bin\Debug\DescendingOrder.pdb
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\obj\Debug\DescendingOrder.csprojAssemblyReference.cache
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\obj\Debug\DescendingOrder.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\obj\Debug\DescendingOrder.exe
+C:\Users\Dipesh\source\repos\DescendingOrder\DescendingOrder\obj\Debug\DescendingOrder.pdb
