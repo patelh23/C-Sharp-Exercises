@@ -14,13 +14,13 @@ namespace DescendingOrder
             int b = 5;
             int c = 11;
 
-            if (a < b)
-                if (a < c)
-                    c = c + a;
-                    a = c - a;
-                    c = c - a;
-                else if (b < c)
-                    
+            if (a <= b && a < c)
+                Console.WriteLine("{0},{1},{2}", c, b, a);
+            else if (a > b && b < c)
+                Console.WriteLine("{0},{1},{2}", c, a, b);
+            else if (a)
+
+
 
             Console.WriteLine(a);
             Console.WriteLine(b);
